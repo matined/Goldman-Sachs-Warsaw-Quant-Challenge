@@ -78,7 +78,7 @@ outcome;
 the same transaction would be higher.
 
 ## Solution
-The complete solution is in the `quant_challenge.ipynb` file.
+The complete solution is in the `solution.ipynb` file.
 
 Here's the structure of the final DNN model it uses:
 

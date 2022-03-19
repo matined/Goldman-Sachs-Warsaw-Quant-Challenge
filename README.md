@@ -1,5 +1,5 @@
 # Goldman Sachs Warsaw Quant Challenge
-The winning solution to the problem of predicting the probability of bid's success:
+The winning solution to the problem of estimating the probability of winning the auction by posting a given price offer:
 
 <img src='img/quant.png'>
 

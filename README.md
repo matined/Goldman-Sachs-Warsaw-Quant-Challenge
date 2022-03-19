@@ -1,4 +1,7 @@
 # Goldman Sachs Warsaw Quant Challenge
+The winning solution to the problem of predicting the probability of bid's success:
+
+<img src='img/quant.png'>
 
 ## Problem Description
 
@@ -64,7 +67,7 @@ price will became very large your probability of winning will tend to 1.0.<br>
 
 #### Submission
 Submission should consist of:
-* csv file named [N ame] [Surname] submission.csv with the probability of
+* csv file named `[Name]_[Surname]_submission.csv` with the probability of
 trade winning in one column
 * code implementing your model or jupyter notebook
 
@@ -73,4 +76,13 @@ Please note, that:
 outcome;
 * your model is expected to return higher probability of winning if price for
 the same transaction would be higher.
+
+## Solution
+The complete solution is in the `quant_challenge.ipynb` file.
+
+Here's the structure of the final DNN model it uses:
+
+<p align="center">
+<img src='img/plot.png' width=600px>
+</p>
 

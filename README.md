@@ -62,7 +62,7 @@ be 0, your probability of winning the auction should be 0.0, when your offered
 price will became very large your probability of winning will tend to 1.0.<br>
 
 &emsp;&emsp;Brier score: <br>
-&emsp;&emsp;![equation](http://www.sciweavers.org/tex2img.php?eq=BS%20%3D%20%20%5Cfrac%7B1%7D%7BN%7D%20%20%20%20%5Csum_%7Bi%3D1%7D%5EN%20%28%20f_%7Bi%7D%20%20-%20%20o_%7Bi%7D%20%29%5E%7B2%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) <br>
+&emsp;&emsp;<img src='img/brier-score.png'> <br>
 &emsp;&emsp;in which f<sub>i</sub> is your probability forecast, o<sub>i</sub> is the actual outcome of the event for trade i.
 
 #### Submission

@@ -132,7 +132,7 @@ pcre=8.45=h295c915_0
 pexpect=4.8.0=pyh9f0ad1d_2
 phik=0.12.0=pypi_0
 pickleshare=0.7.5=py_1003
-pillow=9.0.1=py39h22f2fdc_0
+pillow>=9.0.2
 pip=21.2.4=py39h06a4308_0
 prometheus_client=0.13.1=pyhd8ed1ab_0
 prompt-toolkit=3.0.27=pyha770c72_0

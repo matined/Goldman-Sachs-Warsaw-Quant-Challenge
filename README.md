@@ -77,6 +77,16 @@ outcome;
 * your model is expected to return higher probability of winning if price for
 the same transaction would be higher.
 
+## Libraries
+`pip install -r requirements.txt` or `conda create --name <env> --file requirements.txt`
+
+* tensorflow
+* sklearn
+* numpy
+* pandas
+* matplotlib
+* seaborn
+
 ## Solution
 The complete solution is in the `solution.ipynb` file.
 
